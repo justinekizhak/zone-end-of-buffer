@@ -1,0 +1,48 @@
+#+TITLE:   Zone End of buffer
+#+SUBTITLE:  Quick reference card
+#+AUTHOR:    Justine Kizhakkinedath
+#+EMAIL:     justine@kizhak.com
+#+DATE:    December 29, 2019
+#+SINCE:   {replace with next tagged release version}
+#+DESCRIPTION: Org mode syntax example
+#+KEYWORDS:  org-mode, syntax, quick reference, cheat sheet, recommended practices, latex, beamer, html
+#+LANGUAGE:  en
+#+OPTIONS:   H:4 num:nil toc:2 p:t
+
+#+SETUPFILE: ~/.dotfiles/org/theme-readtheorg.setup
+
+#+PROPERTY:  header-args :eval yes :exports both :results replace
+
+#+STARTUP: inlineimages
+
+#+BEGIN_HEADER
+<a name="top"></a>
+[![Built with Spacemacs](https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg)](http://spacemacs.org)
+<a href="https://www.instagram.com/justinekizhak"><img src="https://i.imgur.com/G9YJUZI.png" alt="Instagram" align="right"></a>
+<a href="https://twitter.com/justinekizhak"><img src="http://i.imgur.com/tXSoThF.png" alt="Twitter" align="right"></a>
+<a href="https://www.facebook.com/justinekizhak"><img src="http://i.imgur.com/P3YfQoD.png" alt="Facebook" align="right"></a>
+<br>
+- - -
+<!-- {Put your badges here} -->
+#+END_HEADER
+
+
+* Table of Contents :TOC_3:noexport:
+- [[#introduction][Introduction]]
+- [[#features][Features]]
+- [[#getting-started][Getting started]]
+- [[#user-guide][User guide]]
+- [[#contributing][Contributing]]
+- [[#license][License]]
+
+* Introduction
+
+* Features
+
+* Getting started
+
+* User guide
+
+* Contributing
+
+* License
